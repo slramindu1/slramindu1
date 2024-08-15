@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Synthwave Software Solutions](https://synthwavesolutions.com/)
 
-- 🌱 I am Undergraduade On ** JAVA INSTITIUTE FOR ADVANCED TECHNOLOGY**
+- 🌱 I am Undergraduade On **JAVA INSTITIUTE FOR ADVANCED TECHNOLOGY**
 
 - 📫 How to reach me **ramindu.jiat@gmail.com**
 
