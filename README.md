@@ -1,8 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Ramindu Ravihansa</h1>
 <h3 align="center">A passionate Software Enginner (Undergraduade) from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=slramindu1&label=Profile%20views&color=0e75b6&style=flat" alt="slramindu1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=slramindu1&label=Profile%20views&color=0e75b6&style=flat" alt="slramindu1" /> </p>  
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
 - 🔭 I’m currently working on [Synthwave Software Solutions](https://synthwavesolutions.com/)
 
 - 🌱 I am Undergraduade On **JAVA INSTITIUTE FOR ADVANCED TECHNOLOGY**
@@ -10,8 +13,19 @@
 - 📫 How to reach me **ramindu.jiat@gmail.com**
 
 - ⚡ Fun fact **Call Me As Ramindu**
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 ---
 <h3 align="center">My Statistics:</h3>
+
+
+
+| ![Ramindu Ravihansa github stats](https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&theme=tokyonight) | ![Ramindu Ravihansa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slramindu1&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 ---
