@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramindu Ravihansa</h1>
 <h3 align="center">A passionate Software Enginner (Undergraduade) from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slramindu1&label=Profile%20views&color=0e75b6&style=flat" alt="slramindu1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=slramindu1&label=Profile%20views&color=0e75b6&style=flat" alt="slramindu1" /> </p>
 
 - 🔭 I’m currently working on [Synthwave Software Solutions](https://synthwavesolutions.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I am Undergraduade On ** JAVA INSTITIUTE FOR ADVANCED TECHNOLOGY**
 
 - 📫 How to reach me **ramindu.jiat@gmail.com**
 
