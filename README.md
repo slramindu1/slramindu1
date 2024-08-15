@@ -14,7 +14,7 @@
 
 ---
 
-
+<h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ramindu-ravihansa-b330b7282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramindu-ravihansa-b330b7282" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sl ramindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl ramindu" height="30" width="40" /></a>
