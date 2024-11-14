@@ -22,14 +22,28 @@
 ---
 <h3 align="center">My Statistics:</h3>
 
-
-
-| ![Ramindu Ravihansa github stats](https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&theme=tokyonight) | ![Ramindu Ravihansa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slramindu1&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&theme=tokyonight" alt="Ramindu Ravihansa Github Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=slramindu1&theme=tokyonight" alt="Ramindu Ravihansa GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=slramindu1&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slramindu1&theme=tokyonight" alt="Top Programming Languages Used" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="My Github Stats (Stars)" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Connect with me:</h3>
