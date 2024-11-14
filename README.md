@@ -35,11 +35,29 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/ramindu-ravihansa-b330b7282" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="ramindu-ravihansa-b330b7282" height="50" width="50" /></a>
-<a href="https://www.youtube.com/@ramindu-jiat" rel="nofollow" previewlistener="true"><img align="center" src="https://camo.githubusercontent.com/41db6f3fb12d9a8ec2d81120896de3e6883dd3b5674c431fe36f1208e8e8f626/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f796f75747562652d69636f6e2d3230343878323034382d67656470326963792e706e67" alt="slramindu-jiat" height="50" width="50" data-canonical-src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/share/xyt62x1zoiTSd81h/?mibextid=qi2Omg" rel="nofollow" previewlistener="true"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/ravihansaramindu?igsh=OTd1Ynh4M3Q0emZ6" rel="nofollow" previewlistener="true"><img align="center" src="https://camo.githubusercontent.com/9fc5d399b5d09185ba4971ca8ff2fc2d7d086bdda8b1eb5515f48afa79d8c7cb/68747470733a2f2f7777772e656469676974616c6167656e63792e636f6d2e61752f77702d636f6e74656e742f75706c6f6164732f6e65772d496e7374616772616d2d69636f6e2d706e672d66756c6c2d636f6c6f75722e706e67" alt="kavee_dineth" height="50" width="50" data-canonical-src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" style="max-width: 100%;"></a>
-</p>
+  <a href="https://linkedin.com/in/ramindu-ravihansa-b330b7282" target="blank">
+    <img class="social-icon" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="ramindu-ravihansa-b330b7282" height="50" width="50" />
+  </a>
+  <a href="https://www.youtube.com/@ramindu-jiat" rel="nofollow" previewlistener="true">
+    <img class="social-icon" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="slramindu-jiat" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/share/xyt62x1zoiTSd81h/?mibextid=qi2Omg" rel="nofollow" previewlistener="true">
+    <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/ravihansaramindu?igsh=OTd1Ynh4M3Q0emZ6"   
+ rel="nofollow" previewlistener="true">
+    <img class="social-icon" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" />
+  </a>
+</p>   
+
+
+<style>
+  .social-icon {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 10px; /* Optional: Add some margin between icons */
+  }
+</style>
 
 ---
 <h3 align="center">Languages and Tools:</h3>
