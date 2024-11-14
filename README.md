@@ -23,9 +23,13 @@
 <h3 align="center">My Statistics:</h3>
 
 
-| ![Ramindu Ravihansa github stats](https://github-readme-stats.vercel.app/api?username=Scar1109&show_icons=true&theme=tokyonight) | ![Ramindu Ravihansa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=tokyonight) |
+
+| ![Ramindu Ravihansa github stats](https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&theme=tokyonight) | ![Ramindu Ravihansa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slramindu1&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar1109&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Scar1109&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=slramindu1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+---
 
 
 <h3 align="center">Connect with me:</h3>
