@@ -45,13 +45,7 @@
   </tr>
 </table>
 
-<style>
-  .social-icon {
-    max-width: 100%;
-    display: block;
-    margin: 0 auto 10px; /* Optional: Add some margin between icons */
-  }
-</style>
+
 
 <h3 align="center">Connect with me:</h3>
 
